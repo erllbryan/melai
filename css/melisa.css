@@ -1,0 +1,78 @@
+
+
+
+body{
+	background:#827d79;
+}
+.cover{
+	margin-left: 120px;
+	margin-bottom: 50px;
+}
+.header {
+	margin-left: 45px;
+}
+.shoutbox{
+	margin-left: 10px;
+}
+.forum{
+	margin-left: 50px;
+}
+
+.title{
+	color: #fff;
+	font-size: 15px;
+	text-align: center;
+}
+
+.container{
+	margin: 10px 5%;
+    padding: 4px 8px;
+    background-color: #B7B2AD;
+    border: 2px dashed #7485CA;
+}
+.container p{
+	color: #fff; 
+}
+
+iframe {
+	padding: 10px;
+
+}
+p{
+	color: #fff;
+	font-size: 15px;
+	padding: 5px 50px;
+	
+}
+
+
+
+.footer{
+	position: relative; 
+	top:15px;
+	background: #000;
+	width: 100%;
+	text-align: center;
+	font-size: 15px;
+}
+
+a{
+	text-decoration: none;
+	color:#FFEBCD;
+}
+
+a:hover{
+	color:#827d79;
+}
+
+A IMG {
+	BORDER-RIGHT: #2C333A 2px solid; BORDER-TOP: #2C333A 2px solid; BORDER-LEFT: #2C333A 2px solid; BORDER-BOTTOM: #2C333A 2px solid
+}
+A:hover IMG {
+	BORDER-RIGHT: #2C333A 3px solid; BORDER-TOP: #2C333A 3px solid; BORDER-LEFT: #2C333A 3px solid; BORDER-BOTTOM: #2C333A 3px solid
+}
+BODY {
+	FONT-SIZE: 8pt; COLOR: #818574; FONT-FAMILY: verdana; TEXT-ALIGN: left}
+
+TD {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: verdana; TEXT-ALIGN: left}
