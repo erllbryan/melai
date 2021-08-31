@@ -31,13 +31,9 @@ body{
     background-color: #00C9AD;
     border: 2px dashed #7485CA;
 }
-.container p{
-	color: #fff; 
-}
 
-iframe {
-	padding: 10px;
-
+td iframe {
+	margin-left: 10px;
 }
 p{
 	color: #fff;
